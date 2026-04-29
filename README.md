@@ -11,7 +11,11 @@ Mumz AI is a smart baby-care assistant built for mothers and parents that simpli
 👉 Live App:
 https://java-scored-grumbly.ngrok-free.dev
 
-👉 Loom Walkthrough (3 min): ( video link )
+👉 Loom Walkthrough (3 min): ( video link-google drive )
+https://drive.google.com/file/d/1d42LCDDy8e69pPiwO7dWBPyGKgyk6u_R/view?usp=drivesdk
+
+ Noraml video without voiceover:
+project overview: link :  https://drive.google.com/file/d/1bpn8hlLjxAQ06EXRehgrkP7CTFm4zXIY/view?usp=drivesdk
 
 🎯 Discovery
 Problem
